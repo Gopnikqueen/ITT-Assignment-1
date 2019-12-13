@@ -7,7 +7,7 @@
 <h1> My IT Profile </h1>
 <h2>About me</h2>
 
-<img src="Headshot.jpg" width="500" height="600"> 
+<img src="Headshot.jpg" width="250" height="300"> 
 
 
 <p> My Name is Lori Williams, or s3824209 according to RMIT. </p>

@@ -58,13 +58,13 @@
 <h2> Personal Profile </h2>
 <p>The screenshot you'll see below are the results of three seperate tests, Myer-Briggs, learning and psychometric tests. </p>
 
-<img src="Results.PNG" Alt="Myer-Briggs Test" width="104" height="104">
+<img src="Myer-Briggs.PNG" Alt="Myer-Briggs Test" width="300" height="500">
 <p> 
 
-<img src="Results2.PNG" Alt="Learning Test" Width="104" height="104">
+<img src="Learning.PNG" Alt="Learning Test" Width="300" height="300">
 <p>
 
-<img src="Results3.PNG" Alt="Psychometic Test" width="104">
+<img src="Psychometric.PNG" Alt="Psychometic Test" width="300" Height="300">
 <p>
 
 <h1> Project Ideas </h1>

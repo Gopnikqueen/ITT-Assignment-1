@@ -7,7 +7,7 @@
 <h1> My IT Profile </h1>
 <h2>About me</h2>
 
-<img src="headshot.JPG" Alt="Lori Williams">
+<img src="img/headshot.JPG" Alt="Lori Williams">
 
 
 <p> My Name is Lori Williams, or s3824209 according to RMIT. </p>
@@ -49,7 +49,7 @@
 <p> Sadly, I do not have the current experience to apply and be successful for this role, but this is why I am studying with RMIT, to further hone and exapnd the knowlegde in order to be successful. I've also requested from my current work if there's any positions related to IT.</p>
 <p> Click on the image below for more information on the position opening.</p>
 
-<a herf ="default.asp'>
+<a herf ="default.asp">
 <img src= "ScreenshotITT.PNG" alt="https://www.seek.com.au/job/40551087?type=standout#searchRequestToken=f004267c-14b8-431e-9144-bff60c91bb68">
 <style="width:100px;height:100px;border:0">
 </a>

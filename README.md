@@ -58,13 +58,13 @@
 <p>The screenshot you'll see below are the results of three seperate tests, Myer-Briggs, learning and psychometric tests. </p>
 
 <img src="Myer-Briggs.png" Width="300" Height="600">
-
+<p> </p>
 
 <img src="Learning.png" Width="800" Height="600">
-
+<p> </p>
 
 <img src="Psychometric.png" Width="800" Height="600">
-
+<p> </p>
 
 <h1> Project Ideas </h1>
 <h2> Project Overview </h2>

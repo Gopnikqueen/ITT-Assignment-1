@@ -65,10 +65,28 @@
 
 <h1> Project Ideas </h1>
 <h2> Project Overview </h2>
-<p> For this assignment, I've have thought of two ideas. One, being a program for password security. This system or program would be used to produce specific passwords on a network, record date & time, what PC the temporary password was assigned and what PC used it with date & time and location in attempt to reduce and combat unauthorised intrusion. Second, being an automatic programmable plant watering system. This would be used for gardens that either have little to no rainfall and for gardens what cannot be watered on a regular basis like fulltime workers or for areas on heavy water restrictions. </p>
+<p> For this assignment, my idea is an automatic programmable plant watering system. This would be used for gardens that either have little to no rainfall and for gardens what cannot be watered on a regular basis like fulltime workers or for areas on heavy water restrictions. In theory, this would be programmed to release water on a timer, for a specific amount, or to be able to operate on solar to release the water. This could be easily achieved with a Raspberry Pi 3 as the price is low and the board is small enough to be concealed in a water/weatherproof case.</p>
 
 <h2> Motivation </h2>
-<p> The montivation daylight sensor
+<p> The montivation for the automatic watering system was for those who try to maintain a small garden but having either no time to water, like myself as I work fulltime then deticated to studying during any spare time, areas on heavy water restrictions or with severe dry humidity. The market for a 
+
+<h2> Description </h2>
+<p> The automatic watering system would have several features, the device would allow you to either manually program a time or times for the waterto be released. This means you can have it programmed to work more than once a day if the plant or vegtable required frequent watering. 
+
+<h2> Tools & Technologies </h2>
+<p> The tools and technology for this project can be easily sourced from local retailers like tech shops or Bunnings.</p>
+<p> -	The raspberry pi 3 board can be bought online for a cheap price. NOOBS for the RPi as it contains Raspbian and LibreELEC. </p>
+<p> -	Regular hand and precision tools I already own so there’s no need for me to purchase any more, it also helps that my Father’s garage is well-equip if I ever need to borrow anything.</p> 
+<p> -	A simple black and white display and buttons so the device can be used. </p>
+<p> -	Water reservoir that can hold at least 1 litre. </p>
+<p> -	Flexible thin tubing so the attachments can be made into what shape that’s required. </p>
+<p> -	Mini Solar panels for providing power to the device. </p>
+<p> -	Water/weatherproof plastic to create the housing of the mobo, pump etc. Looking towards Acrylic as it's durable, good for weather and easy to solvent bond together.. </p>
+
+
+<h2> Skills Required </h2>
+
+<h2> Outcome </h2>
 
 </body>
 </html>

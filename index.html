@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+  theme: jekyll-theme-midnight
 <head>
 <title> ITT Assignment 1</title>
 </head>

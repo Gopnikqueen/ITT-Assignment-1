@@ -48,11 +48,7 @@
 <p> Sadly, I do not have the current experience to apply and be successful for this role, but this is why I am studying with RMIT, to further hone and exapnd the knowlegde in order to be successful. I've also requested from my current work if there's any positions related to IT.</p>
 <p> Click on the image below for more information on the position opening.</p>
 
-<a herf ="default.asp">
-<img src= "ScreenshotITT.PNG" alt="https://www.seek.com.au/job/40551087?type=standout#searchRequestToken=f004267c-14b8-431e-9144-bff60c91bb68">
-<style="width:100px;height:100px;border:0">
-</a>
-</style>
+<img src= "ScreenshotITT.PNG">
 
 <h2> Personal Profile </h2>
 <p>The screenshot you'll see below are the results of three seperate tests, Myer-Briggs, learning and psychometric tests. </p>
@@ -60,10 +56,10 @@
 <img src="Myer-Briggs.png" Width="300" Height="600">
 <p> </p>
 
-<img src="Learning.png" Width="800" Height="600">
+<img src="Learning.png" Width="800" Height="850">
 <p> </p>
 
-<img src="Psychometric.png" Width="800" Height="600">
+<img src="Psychometric.png" Width="800" Height="850">
 <p> </p>
 
 <h1> Project Ideas </h1>

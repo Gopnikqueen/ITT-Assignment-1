@@ -7,7 +7,7 @@
 <h1> My IT Profile </h1>
 <h2>About me</h2>
 
-<img src="Headshot.jpg"> 
+<img src="Headshot.jpg" Width="250" Height=500> 
 
 <p> My Name is Lori Williams, or s3824209 according to RMIT. </p>
 <p> Born in Maitland, NSW which is about 38km inland from Newcastle, on the 29th of August 1997 and becoming the original pain in the arse for my Mum as I broke her tailbone while I was still in the womb shortly before birth. </p>

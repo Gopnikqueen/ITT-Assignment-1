@@ -31,7 +31,7 @@
 <p> Since graduation, I’ve worked at a local Telco as a Customer Service Representative then as a Technical Support Operator, assisting endusers with installation and setup of either, ADSL, NBN, Satellite or Mobile Broadband connections as well as configuring said services when required. As of 2019, I still work for them but now as a Billing Analyst in a small but closely knitted team. Currently we are mediating and migrating over 100,000 customers from the old accounts and billing platform that’s been in place for years, to our own platform which is to be launched at the start of 2020. Not only are we moving our customers, but also archiving and importing all our plans, past and present. This also includes the rates, inclusions, exclusions etc. Not an easy job sadly, but we power through it thanks to teamwork and communication. </p>
 
 <p> Why did I choose RMIT? I actually chose RMIT back during my final year of High School and to do the exact same subject as I'm doing now. Sadly, I didn't go through with it due to my mental health.</p>
-<p> I'm estatic to finally follow through with my dream, keen to learn all there is to IT and everything related... Progrmming, IT system, Cyber Secuirty
+<p> I'm estatic to finally follow through with my dream, keen to learn all there is to IT and everything related... Progrmming, IT systems, Cyber Security and networking.
 
 <h1> Ideal Job </h1>
 <p>While I love every aspect of IT, my favourite field of it that would be my dream to have a career in would be Cyber Secuirty.</p>
@@ -46,7 +46,7 @@
 
 <p> The qualifications for this position are out of my reach for the time being, as they require at least 1 year experience in a Security Analytics role or in a security operations/network admin role.</p>
 <p> Sadly, I do not have the current experience to apply and be successful for this role, but this is why I am studying with RMIT, to further hone and exapnd the knowlegde in order to be successful. I've also requested from my current work if there's any positions related to IT.</p>
-<p> Click on the image below for more information on the position opening.</p>
+<p><a href="https://www.seek.com.au/job/40551087?type=standout#searchRequestToken=f004267c-14b8-431e-9144-bff60c91bb68">Click here for more information</a></p>
 
 <img src= "ScreenshotITT.PNG">
 
@@ -68,19 +68,23 @@
 <h2> Project Overview </h2>
 <p> For this assignment, my idea is an automatic programmable plant watering system. This would be used for gardens that either have little to no rainfall and for gardens what cannot be watered on a regular basis like fulltime workers or for areas on heavy water restrictions. In theory, this would be programmed to release water on a timer, for a specific amount, or to be able to operate on solar to release the water. This could be easily achieved with a Raspberry Pi 3 as the price is low and the board is small enough to be concealed in a water/weatherproof case.</p>
 
+
 <h2> Motivation </h2>
-<p> The montivation for the automatic watering system was for those who try to maintain a small garden but having either no time to water, like myself as I work fulltime then deticated to studying during any spare time, areas on heavy water restrictions or with severe dry humidity. The market for a 
+<p> The montivation for the automatic watering system was for those who try to maintain a small garden but having either no time to water, like myself as I work fulltime then deticated to studying during any spare time, areas on heavy water restrictions or with severe dry humidity. I personally want this to succeed as I crushes my heart that my flowers keep dying from lack of water due to hving next to no time to tend to them. The heavy water restrictions makes this difficult also in wake of the recent fires. </p>
+
 
 <h2> Description </h2>
 <p> The automatic watering system would have several features: </p>
-<p> -	The device would allow you to either manually program a time or times for the water to be released. This means you can have it programmed to work more than once a day if the plant or vegetable required frequent watering. </p>
-<p> -	Program for how much water is released to the plant, this would come from a water reservoir that can be refilled at any time. This also allows for liquid fertiliser to be mixed in and slowly released.</p>
-<p> -	Length of time the plant is watered. Say you want a plant constantly watered over a 3 hour period, you can program it to slowly water the plant over those requested hours.</p>
-<p> -	Different interchangeable attachments so you can choose how your plant/veg receives its water. You can have the water either sprayed over the top, delivered directly to the roots or on the surface of the sod at the base of the plant. It’ll also have an attachment for multiple hoses but those would be only for on the service or directly to the roots, but this means you can water up to 10 plans at once form the one device.</p>
-<p> -	No mounting onto hard surfaces, the device can be placed easily in the garden itself.</p>
-<p> -	Mini solar panel to power device, this would create less of a fuss of plugging the device in or constantly charging it.</p>
-<p> -	Waterproof and weatherproof hard casing that would able to withstand Australia’s harsh climate. </p>
-<p> -	Water/weatherproof buttons and display screen. </p>
+<p> -	The device would allow you to either manually program a time or times for the water to be released. This means you can have it programmed to work more than once a day if the plant or vegetable require frequent watering. </p>
+<p> -	Program for how much water is released to the plant, this would come from a water reservoir that can be refilled at any time. This also allows for liquid fertiliser to be mixed in and slowly released. </p>
+<p> -	Length of time the plant is watered. Say you want a plant constantly watered over a 3-hour period; you can program it to slowly water the plant over those requested hours. </p>
+<p> -	Different interchangeable attachments so you can choose how your plant/veg receives its water. You can have the water either sprayed over the top, delivered directly to the roots or on the surface of the sod at the base of the plant. It’ll also have an attachment for multiple hoses but those would be only for on the service or directly to the roots, but this means you can water up to several plans at once from the one device. </p>
+<p> -	No mounting onto hard surfaces, the device can be placed easily in the garden itself. Can be mounted onto pegs and pushed into the ground to keep the device in place and hidden. </p>
+<p> -	Mini solar panel to power device, this would create less of a fuss of plugging the device in or constantly charging it. This also makes the device environmentally friendly as it uses a renewable source of energy to power. </p>
+<p> -	Waterproof and weatherproof hard casing that would able to withstand Australia’s harsh climate. Any joints would be sealed with solvent bonding to further improve and prevent any leaks. </p>
+<p> -	Water/weatherproof rubber buttons and display screen. I prefer a basic display without a blacklight so it can be read easier in the sun and rubber buttons to further prevent any water leaks to the internal components. </p>
+<p> -	Works both indoors and outdoors. </p> 
+
 
 <h2> Tools & Technologies </h2>
 <p> The tools and technology for this project can be easily sourced from local retailers like tech shops or Bunnings.</p>
@@ -90,12 +94,15 @@
 <p> -	Water reservoir that can hold at least 1 litre. </p>
 <p> -	Flexible thin tubing so the attachments can be made into what shape that’s required. </p>
 <p> -	Mini Solar panels for providing power to the device. </p>
-<p> -	Water/weatherproof plastic to create the housing of the mobo, pump etc. Looking towards Acrylic as it's durable, good for weather and easy to solvent bond together.. </p>
+<p> -	Water/weatherproof plastic to create the housing of the mobo, pump etc. Looking towards Acrylic as it's durable, good for weather and easy to solvent bond together. </p>
 
 
 <h2> Skills Required </h2>
+<p> Obviously for a project like this, skills in programming as I would have to create a program that can calculate how much water to release, what time and to repeat if required. Knowing what hardware is required and assembly of the device would be a challenge, but I do have experience with computer systems including a bit of Raspberry Pi and can be easily acquired, same can be said for the software. The other components, like the small pump, tubing, and solvent seal can be purchased from the local hardware store. The acrylic casing would be a bit harder to get my hands on but not impossible. The display, buttons and solar panel can be purchased online. </p>
+
 
 <h2> Outcome </h2>
+<p> If it’s successful, then woohoo! That means I can continue to finetune it and make it more durable and reliable. Add more features like soil sensor to show an indication of hydration of the soil it’s detecting, an external temperature sensor to constantly read the outside temp, including air humidity and water plants accordingly. If it fails, then I try again. Until it works, my main point of focus is trial and error. This is stepping outside of my comfort zone; I want the challenge and I want to be able to make this project successful.  I just want my plants to live. </p>
 
 </body>
 </html>

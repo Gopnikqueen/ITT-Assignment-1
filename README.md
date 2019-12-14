@@ -48,18 +48,19 @@
 <p> Sadly, I do not have the current experience to apply and be successful for this role, hence why I'm studying with RMIT, to further hone and expand the knowledge in order to be successful. I've also requested from my current work if there's any positions related to IT.</p>
 <p><a href="https://www.seek.com.au/job/40551087?type=standout#searchRequestToken=f004267c-14b8-431e-9144-bff60c91bb68">Click here for more information</a></p>
 
-<img src= "ScreenshotITT.PNG" Width="700" Height="500">
+<img src= "ScreenshotITT.PNG" Width="350" Height="250">
 
 <h2> Personal Profile </h2>
 <p>The screenshot you'll see below are the results of three separate tests, Myer-Briggs, learning and psychometric tests. </p>
 <img src="Myer-Briggs.png" Width="300" Height="600">
 <p> </p>
 
-<img src="Learning.png" Width="800" Height="850">
+<img src="Learning.png" Width="350" Height="250">
 <p> </p>
 
-<img src="Psychometric.png" Width="800" Height="850">
+<img src="Psychometric.png" Width="350" Height="250">
 <p> </p>
+
 <p> Over all with the results, they didn't come to too much of a surprise. Incidentally it the same as what my manager had already described a while ago and the learning test results were almost identical to the one I took back in High School. The mechanical aptitude test surprised me quite a bit as I initially believed I had gotten most of them wrong. </p>
 <p> As I already work in a very small team and heavily rely on one another to get our objective completed. So for me, what I find important in building a team is trust, communication and the same goal in mind. </p>
 

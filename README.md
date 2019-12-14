@@ -63,7 +63,7 @@
 <img src="Learning.PNG" Width="300" Height="300">
 <p>
 
-<img src="Psychometric.JPG" Width="300" Height="300">
+<img src="Psychometric.PNG" Width="300" Height="300">
 <p>
 
 <h1> Project Ideas </h1>

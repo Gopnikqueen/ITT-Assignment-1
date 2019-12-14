@@ -52,7 +52,6 @@
 
 <h2> Personal Profile </h2>
 <p>The screenshot you'll see below are the results of three seperate tests, Myer-Briggs, learning and psychometric tests. </p>
-
 <img src="Myer-Briggs.png" Width="300" Height="600">
 <p> </p>
 
@@ -61,10 +60,15 @@
 
 <img src="Psychometric.png" Width="800" Height="850">
 <p> </p>
+<p> Over all with the results, they didn't come to too much of a surprise. Incidently it the same as what my manager had already described awhile ago and the learning test results were almost identical to the one I took back in High School. The mechanical aptitue test surprised me quite a bit as I initally believed I had gotten the majority of them wrong. </p>
+<p> As I already work in a very small team and heavily rely on one another to get our objective completed. So for me, what I find important in building a team is trust, communication and the same goal in mind.
 
 <h1> Project Ideas </h1>
 <h2> Project Overview </h2>
-<p> For this assignment, I've have actually thought of two ideas. One, being a program for passwords and security. Second, being an automatic plant watering system.</p>
+<p> For this assignment, I've have thought of two ideas. One, being a program for password security. This system or program would be used to produce specific passwords on a network, record date & time, what PC the temporary password was assigned and what PC used it with date & time and location in attempt to reduce and combat unauthorised intrusion. Second, being an automatic programmable plant watering system. This would be used for gardens that either have little to no rainfall and for gardens what cannot be watered on a regular basis like fulltime workers or for areas on heavy water restrictions. </p>
+
+<h2> Motivation </h2>
+<p> The montivation daylight sensor
 
 </body>
 </html>

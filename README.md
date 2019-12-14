@@ -60,10 +60,10 @@
 <img src="Myer-Briggs.png" Width="300" Height="600">
 
 
-<img src="Learning.png" Width="600" Height="300">
+<img src="Learning.png" Width="800" Height="600">
 
 
-<img src="Psychometric.png" Width="600" Height="300">
+<img src="Psychometric.png" Width="800" Height="600">
 
 
 <h1> Project Ideas </h1>
